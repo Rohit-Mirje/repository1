@@ -5,4 +5,4 @@ for i in range(len(num)):
         for k in range(j+1, len(num)):
             if num[i]+num[j]+num[k]==target:
                 print(i, j, k)
-
+#Can be modified for any amount of indexes
